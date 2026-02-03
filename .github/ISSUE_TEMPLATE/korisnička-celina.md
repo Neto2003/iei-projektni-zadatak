@@ -16,7 +16,6 @@ assignees: ''
 
 ### Kriterijum prihvatanja
 
-12
 ```gherkin
 Dato (imajući u vidu) [neki kontekst, preduslov ili početno stanje]
 Kada [određena akcija bude pokrenuta]
